@@ -1,1 +1,8 @@
-test
+{
+ "nome": "Enzo",
+ "idade":20,
+ "altura": 1.86,
+ "ehAluno": "true",
+ "pets": [ "sombra", "dory"],
+ "endereco": { "rua": "xxx", "cidade": "feira", "numero": 73}
+}
